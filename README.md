@@ -12,6 +12,10 @@
 gowitness.exe report serve -A -a 127.0.0.1:9090
 ```
 
+```
+hunter_keyword.txt  里面放hunter查询一句 一行一条 批量查询并截图查询后的资产
+```
+
 ![image-20220324163743700](https://github.com/Lay0us1/hunter_gowitness/blob/main/img/2.png)
 
 效果：
